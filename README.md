@@ -5,5 +5,5 @@ Note= This plugin is created in the local host but you can add this plugin to yo
 1) Click wordpress admin menu
 2) Click plugins 
 3) Activate the plugin named  Add User's Facebook or Twitter Link Plugin. When you activate the plugin you will see some changes in your profile page like that:
-<img src="images/Ekran Görüntüsü (13).png"> <br>
+<img src="images/Ekran Görüntüsü(13).png"> <br>
 
